@@ -50,7 +50,7 @@ body {
 /* Hero and Form */
 .hero {
     background-image: url("../images/hero-bg.jpg");
-    height: 600px;
+    height: 700px;
     background-size: cover;
     background-position: center;
     position: relative;
